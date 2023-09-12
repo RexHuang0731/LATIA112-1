@@ -1,5 +1,5 @@
 # 國立臺灣師範大學 教育大數據微學程 LATIA112-1
-__學習工具分析實務運用 (Learning Analytics Tools Implementation Applications)__
+__課程__： 學習工具分析實務運用 (Learning Analytics Tools Implementation Applications)
 
 __授課教師__： 廖執善 老師
 
