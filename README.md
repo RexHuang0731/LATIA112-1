@@ -20,7 +20,7 @@ __系級__：物理系114級
 ## 作業連結區
 
 ### 作業一
-[HW1-110-school-exchange](https://github.com/RexHuang0731/LATIA112-1/blob/main/HW1/HW1.ipynb)
+[HW1(exchange student)](https://github.com/RexHuang0731/LATIA112-1/blob/main/HW1/HW1.ipynb)
 ### 作業二
 
 ### 作業三
