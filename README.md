@@ -27,5 +27,8 @@ __系級__：物理系114級
 ### 作業三
 [HW3](https://github.com/RexHuang0731/LATIA112-1/blob/main/HW3/app.py)
 ### 作業四
+[HW4](https://rexhuang0731.github.io/LATIA112-1/)
 
 ## 專題連結區
+[finial project](https://github.com/RexHuang0731/LATIA112-1/tree/main/final_project)
+[PPT](https://www.canva.com/design/DAF24HRnAps/kG4KTU4-Ngtxyt83W8PyqQ/view?utm_content=DAF24HRnAps&utm_campaign=designshare&utm_medium=link&utm_source=editor)
